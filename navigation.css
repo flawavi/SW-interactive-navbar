@@ -1,0 +1,12 @@
+li:hover {
+  color: orange;
+}
+
+ul li:hover {
+  background-color: lightblue;
+}
+
+ul li:active {
+  transform: scale(5, 5);
+}
+
